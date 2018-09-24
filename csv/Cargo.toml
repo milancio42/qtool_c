@@ -1,0 +1,12 @@
+[package]
+name = "cbind"
+version = "0.1.0"
+authors = ["Milan Opath <milan.opath@gmail.com>"]
+
+[dependencies]
+csv = "1.0.0"
+libc = "*"
+
+[lib]
+name = "qparams"
+crate-type = ["staticlib"]

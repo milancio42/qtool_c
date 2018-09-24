@@ -1,0 +1,9 @@
+header = """
+/*
+
+C bindings for Burntsushi's csv parser
+
+*/"""
+
+tab_width = 4
+language = "C"
