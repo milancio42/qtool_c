@@ -1,6 +1,7 @@
 # Query Benchmarking Tool
 
-This is a demo application.
+This is a study CLI tool to asynchronously query a database in c.
+It also experiments with calling rust from c.
 
 ## Goal
 
